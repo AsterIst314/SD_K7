@@ -1,8 +1,9 @@
 # Group 7
 
-group members:
-1. Afrizal Guswidianto
-2. Yulius Rio Triutomo
-3. Saiful Rochim
-4. Rangga Araya
+Group members:
+1. Rangga Araya - FrontEnd
+2. Afrizal Guswidianto - BackEnd
+3. Yulius Rio Triutomo - DevOps
+4. Saiful Rochim - BackEnd
+
 
